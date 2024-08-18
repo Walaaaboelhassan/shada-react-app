@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/shada-react-app/static/css/main.b4544a80.css",
+    "main.js": "/shada-react-app/static/js/main.a9ed2483.js",
+    "static/media/Picture6.png": "/shada-react-app/static/media/Picture6.fbdd2297ce43b6eac0ad.png",
+    "static/media/topBack.png": "/shada-react-app/static/media/topBack.e3aaf5c271fb4c4a0216.png",
+    "static/media/ذهبي.png": "/shada-react-app/static/media/ذهبي.f7ae037cdf9f2c3fdd6a.png",
+    "static/media/بلاتينيوم.png": "/shada-react-app/static/media/بلاتينيوم.c2b72969470259d5a5f1.png",
+    "static/media/برونزي.png": "/shada-react-app/static/media/برونزي.56406a6d576233646b3c.png",
+    "static/media/فضي.png": "/shada-react-app/static/media/فضي.3be54c90889b4f5497f5.png",
+    "static/media/jpg": "/shada-react-app/static/media/5881775159038296687.591c142af321f69e8e0a.jpg",
+    "static/media/logo.png": "/shada-react-app/static/media/logo.ef064e78a96ae50d4d9f.png",
+    "static/media/logo1.png": "/shada-react-app/static/media/logo1.66cd86f0ef3f44cf4a8b.png",
+    "static/media/first.png": "/shada-react-app/static/media/first.d4358778ffa441c49511.png",
+    "static/media/person1.jpg": "/shada-react-app/static/media/person1.099f0dcb2d7f1c90edbb.jpg",
+    "static/media/person3.jpg": "/shada-react-app/static/media/person3.f5f7219b67daad307b64.jpg",
+    "static/media/footer-background.avif": "/shada-react-app/static/media/footer-background.d025f458ac691ab6e8fa.avif",
+    "static/media/second.png": "/shada-react-app/static/media/second.621a1549cc7ea8ebb076.png",
+    "static/media/third.png": "/shada-react-app/static/media/third.68c17c4c5a47bde0be1a.png",
+    "static/media/person4.jpg": "/shada-react-app/static/media/person4.8aa3ce4bd52d898b1d73.jpg",
+    "static/media/fourth.png": "/shada-react-app/static/media/fourth.baac117899fd06a8a22a.png",
+    "static/media/person2.jpg": "/shada-react-app/static/media/person2.a58e293d619efebd1497.jpg",
+    "static/media/image.png": "/shada-react-app/static/media/image.3b63c3557eab9f0afe7b.png",
+    "static/media/doctors2.png": "/shada-react-app/static/media/doctors2.28b715ac409409acbb81.png",
+    "index.html": "/shada-react-app/index.html",
+    "main.b4544a80.css.map": "/shada-react-app/static/css/main.b4544a80.css.map",
+    "main.a9ed2483.js.map": "/shada-react-app/static/js/main.a9ed2483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4544a80.css",
+    "static/js/main.a9ed2483.js"
+  ]
+}
